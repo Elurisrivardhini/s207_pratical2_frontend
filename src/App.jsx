@@ -9,7 +9,6 @@ function App() {
     os: '',
     price: ''
   });
-
   const [products, setProducts] = useState([]);
   const [isEditing, setIsEditing] = useState(false);
 
